@@ -3,3 +3,5 @@ Milk
 Eggs
 Bread
 towel
+juice
+apples
